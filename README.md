@@ -1,1 +1,1 @@
-# python_advanced_projects
+This repo contains some simple Python OOP projects. 
